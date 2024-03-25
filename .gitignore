@@ -1,0 +1,49 @@
+# Visual Studio ビルド/ソリューションディレクトリ
+bin/
+obj/
+.vs/
+
+# Visual Studio Code のディレクトリとファイル
+.vscode/
+
+# パッケージングされたアプリケーションファイル
+*.pfx
+
+# nuget パッケージ
+*.nupkg
+# NuGet キャッシュ
+packages/
+
+# MSBuild プロジェクトファイル
+*.xproj
+*.swp
+*.*suo
+*.*user
+*.*sln.docstates
+
+# Rider のファイル
+.idea/
+
+# TypeScript キャッシュ
+*.jsproj
+
+# ReSharper のファイル
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+# DOTCover のファイル
+*.dotCover
+
+# NCrunchの出力
+*.ncrunch*
+
+# メモリ ダンプ ファイル
+*.dmp
+
+# 作成されるパブリッシュ フォルダー
+publish/
+
+# Roslyn アナライザー ワークスペース状態ファイル
+*.ruleset
+/csharp-Mysql-Sample/FileContentIndex/eb59de00-c581-4534-ac0d-afc256969523.vsidx
